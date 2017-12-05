@@ -22,7 +22,7 @@ public class Operations {
         }).start();
 
         try {
-            System.out.println("Hello from Main!");
+            System.out.println("Hello from ExerciseUsingJava7!");
             transfer(ac2, ac1, 100);
         } catch (InsufficientResourcesException e) {
             System.out.println("No money from main Thread");
