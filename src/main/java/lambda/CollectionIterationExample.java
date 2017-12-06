@@ -1,4 +1,4 @@
-package lambda.streams;
+package lambda;
 
 import lambda.entities.Person;
 
