@@ -7,6 +7,6 @@ public class Initializing {
 //        OrdinaryChildClass.showStatic();
         System.out.println(OrdinaryChildClass.class.getClassLoader());
 //        System.out.println(String.class.getClassLoader());
-        System.out.println(Week.Friday);
+        System.out.println(WeekEnum.Friday);
     }
 }
